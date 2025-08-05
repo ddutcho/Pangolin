@@ -17,7 +17,6 @@ Script Bash per installare, configurare e mantenere in esecuzione persistente il
 ## ⚙️ Requisiti
 
 - Linux (testato su Ubuntu/Debian)
-- Connessione a internet
 - Permessi `sudo`
 
 ---
@@ -25,7 +24,7 @@ Script Bash per installare, configurare e mantenere in esecuzione persistente il
 ## 🚀 Installazione
 
 ```bash
-git clone https://github.com/ddutcho/Pangolin.git
+git clone https://github.com/ddutcho/Newt.git
 cd Pangolin
 chmod +x setup-newt.sh
 ./setup-newt.sh
