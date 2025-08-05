@@ -82,3 +82,14 @@ sudo ./remove-newt.sh
   ```
 
 ---
+
+## Installazione veloce Docker Compose (come da guida ufficiale)
+
+Scarica il file e lo esegue in bash:
+
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/ddutcho/Newt/main/docker-install.sh | bash
+```
+
+---
